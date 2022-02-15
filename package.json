@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/emed.karim.alami@gmail.com.lwc-kznzs15i",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 3FmxbM44efXdUuAJb11n --open"
+  }
+}
